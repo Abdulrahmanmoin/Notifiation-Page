@@ -1,0 +1,163 @@
+@media screen and (width >= 1400px) {
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 31rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 33.5em;
+        margin-top: -4.5em;
+    }
+}
+
+ @media screen and (992px <= width <= 1199px) {
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 30rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 32em;
+        margin-top: -4.5em;
+    }
+}
+
+@media screen and (width <= 991px) {
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 27.5rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 30em;
+        margin-top: -4.5em;
+    }
+}
+
+@media screen and (width < 768px) {
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 24rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 27em;
+        margin-top: -4.5em;
+    }
+}
+
+@media screen and (width < 576px) {
+    .white-box {
+        min-height: 100vh;
+        justify-content: center;
+        margin-top: 0;
+    }
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 23rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 26em;
+        margin-top: -4.5em;
+    }
+    .message-box{
+        border: 1px solid rgb(215, 215, 215);
+        min-width: 60vw;
+        max-width: 80vw;
+        margin-left: 11vw;
+        margin-top: 2px;
+        cursor: pointer;
+    }
+    
+    .message-box:hover{
+        background-color: hsl(205, 33%, 90%);
+    }
+    
+    .message-box p{
+        font-size: 0.9em;
+        font-family: "Gill Sans", sans-serif;
+        font-weight: 500;
+    }
+    
+}
+
+@media screen and (width < 501px) {
+    .white-box {
+        min-height: 100vh;
+        justify-content: center;
+        margin-top: 0;
+    }
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 18rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 23.5em;
+        margin-top: -4.5em;
+    }
+    .message-box{
+        border: 1px solid rgb(215, 215, 215);
+        min-width: 60vw;
+        max-width: 80vw;
+        margin-left: 11vw;
+        margin-top: 2px;
+        cursor: pointer;
+    }
+    
+    .message-box:hover{
+        background-color: hsl(205, 33%, 90%);
+    }
+    
+    .message-box p{
+        font-size: 0.9em;
+        font-family: "Gill Sans", sans-serif;
+        font-weight: 500;
+    }
+    
+}
+
+@media only screen and (width < 443px) {
+    .white-box {
+        min-height: 100vh;
+        justify-content: center;
+        margin-top: 0;
+    }
+    .mark-as-read{
+        margin-top: -2rem;
+        margin-left: 13.7rem;
+        color:  grey;
+        cursor: pointer;
+    }
+    .reacted-img{
+        margin-left: 20.4em;
+        margin-top: -6em;
+        height:max-content;
+    }
+    .message-box{
+        border: 1px solid rgb(215, 215, 215);
+        min-width: 60vw;
+        max-width: 85vw;
+        margin-left: 11vw;
+        margin-top: 2px;
+        cursor: pointer;
+    }
+    
+    .message-box:hover{
+        background-color: hsl(205, 33%, 90%);
+    }
+    
+    .message-box p{
+        font-size: 0.9em;
+        font-family: "Gill Sans", sans-serif;
+        font-weight: 500;
+    }
+    
+}
