@@ -7,4 +7,4 @@ Function:
 i) when you click on "mark all as read" button so all the notification will be mark as read.
 ii) You can also click individually on notification to mark as read.
 
-I got this project from frontend mentor for practice myself. 
+I got this project from frontend mentor for practicing myself. Here is a link: https://www.frontendmentor.io/challenges/notifications-page-DqK5QAmKbC
