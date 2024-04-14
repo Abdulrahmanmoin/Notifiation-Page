@@ -49,9 +49,10 @@ nav h4{
 }
 
 .notification-box-1 {
-    height: 8vh;
+    height: fit-content;
     background-color: hsl(209, 100%, 94%);
-    margin-top: 8px;
+    margin: 8px;
+    padding-bottom: 12px;
     margin-left: 1.5vw;
 }
 
@@ -67,9 +68,9 @@ nav h4{
     margin-bottom: 0;
 }
 .notification-box-2{
-    height: 8vh;
+    height: fit-content;
     background-color: hsl(209, 100%, 94%);
-    margin-top: 8px;
+    margin: 8px;
     margin-left: 1.5vw;
 } 
 
@@ -85,9 +86,9 @@ nav h4{
 }
 
 .notification-box-3{
-    height: 8vh;
+    height: fit-content;
     background-color: hsl(209, 100%, 94%);
-    margin-top: 8px;
+    margin: 8px;
     margin-left: 1.5vw;
 } 
 
@@ -103,7 +104,7 @@ nav h4{
 }
 
 .notification-box-4 {
-    height: 8vh;
+    height: fit-content;
     margin-top: 8px;
     margin-left: 1.5vw;
 }
@@ -121,7 +122,7 @@ nav h4{
 
 .message-box{
     border: 1px solid rgb(215, 215, 215);
-    height: 9vh;
+    height: fit-content;
     margin-left: 7vw;
     margin-top: 2px;
     cursor: pointer;
@@ -138,7 +139,7 @@ nav h4{
 }
 
 .notification-box-5 {
-    height: 8vh;
+    height: fit-content;
     margin-top: 8px;
     margin-left: 1.5vw;
 }
@@ -164,7 +165,7 @@ nav h4{
 }
 
 .notification-box-6 {
-    height: 8vh;
+    height: fit-content;
     margin-top: 8px;
     margin-left: 1.5vw;
 }
@@ -180,7 +181,7 @@ nav h4{
     margin-top: 7px;
 }
 .notification-box-7 {
-    height: 8vh;
+    height: fit-content;
     margin-top: 8px;
     margin-left: 1.5vw;
 }
